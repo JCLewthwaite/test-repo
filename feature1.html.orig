@@ -7,7 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="next3.html">next</a>
+<<<<<<< HEAD
+    <a href="next1.html">next</a>
+=======
+    <a href="next2.html">next</a>
+>>>>>>> fa7f8ce2e0fbbda416e3e766a6fcf91cadbd260a
     
 </body>
 </html>
