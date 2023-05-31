@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" modified="2023-05-31T11:54:42.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="ezhzDRv0kAZuTfJ9Dhup" version="21.3.4" type="github">
+  <diagram name="Page-1" id="rAu8qaYcTzUjpbL6Pgpx">
+    <mxGraphModel dx="1177" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-2" value="decide abstract document model and XML format&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-3" value="Abstract Doc Model" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="260" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-4" value="Convert Ricks rst files into intermediate XML" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-5" value="Intermediate XML&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="46" y="230" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-6" value="XML format" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="400" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-7" value="Bind Intermediate XML into actual XML&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-9" value="Produce XML viewer/editor" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="610" y="89.99999999999999" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=-225;" parent="1" vertex="1">
+          <mxGeometry x="282.07" y="110" width="55.86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=50;" parent="1" vertex="1">
+          <mxGeometry x="414" y="110" width="55.86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=-12;" parent="1" vertex="1">
+          <mxGeometry x="511.83" y="147.71" width="77.93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-15" value="Section XML- GDS Specification&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="270" y="340" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-16" value="Current RST files&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-10" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=-210;" parent="1" vertex="1">
+          <mxGeometry x="164.29" y="288.64" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-19" value="Produce RST generator framework&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="28" y="515" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-20" value="Produce Matlab Hooks" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="160" y="555" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-21" value="Produce Python Hooks" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="164.29" y="470" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-22" value="Produce C++&lt;br&gt;&amp;nbsp;Hooks" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="160" y="640" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-23" value="Produce Language Specific front material&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="580" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-24" value="Produce Language Independant section fronts&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="660" y="335" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="75.02" y="50" width="41.97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=21.97;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="75.02" y="200" width="41.97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=21.97;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="75.02" y="300" width="41.97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-34" value="Generate RST or MD&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="391.93" y="550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-35" value="RST Files&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="400" y="720" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-36" value="Use Sphinx to generate actual docs" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="282.07" y="750" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-37" value="Static Pages (some language dependant)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="449.86" y="340" width="140.14" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="589.7599999999999" y="360" width="77.93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=-220;" parent="1" vertex="1">
+          <mxGeometry x="502.0699999999999" y="270" width="77.93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-42" value="Decide on desired output formats (mainly applies to HTML) Investigate Sphinx specific configuration required to produce it" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="90" y="760" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-43" value="The Docs!!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=17;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="357.96000000000004" y="900" width="172.07" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-44" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=10;dx1=20;notch=20;arrowHead=20;dx2=25;dy2=30;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="391.93" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="424" y="650" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="421.93" y="790" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="780" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcR8n1rN6lNJ10iGqAVh-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="555" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZlUc2rtgUZkwWyP17VQ-3" value="Server side dependancies&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="491.93" y="-50" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
